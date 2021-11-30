@@ -34,6 +34,7 @@ Here are some ideas to get you started:
  <code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
  <code><img height="50" src="https://external-preview.redd.it/SY5mlH8w2EFU-zp2P-nj8bvj7Cx1rgEGcDMmr2gawgU.jpg?auto=webp&s=a89328145b79c8fbed55ee28f9d7b295e1d22d2e"></code>
+ <code><img height="50" src="https://banner2.cleanpng.com/20180823/ipi/kisspng-scikit-learn-python-scikit-image-logo-brand-custom-application-development-service-provider-ap-5b7f65a43cd484.7557485915350757482492.jpg"></code>
 
 
 
