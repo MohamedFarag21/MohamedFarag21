@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 # Languages
 ###
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img > 
 
 # Tools
 ###
