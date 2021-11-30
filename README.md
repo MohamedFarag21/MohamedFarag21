@@ -27,9 +27,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
 
 
 # Languages
 ###
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/git.png"></code>
+
+# Github stats
+###
+
+![MohamedFarag21 GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedfarag21&show_icons=true)
+
