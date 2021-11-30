@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 # Github stats
 ###
 
-![MohamedFarag21 GitHub Stats](https://github-readme-stats?username=mohamedfarag21&show_icons=true)
+![MohamedFarag21 GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedfarag21&show_icons=true)
 
