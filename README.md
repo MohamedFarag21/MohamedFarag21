@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  <code><img height="50" src="https://www.vhv.rs/dpng/d/443-4432479_python-logo-png-transparent-png.png"></code>
  <code><img height="50" src="https://www.caiodonalisio.com/static/blog/posts/cadernos/matplotlib/cover.png"></code>
  <code><img height="50" src="https://user-images.githubusercontent.com/315810/92255284-156f1180-eea0-11ea-9d2d-be8262670e8c.png"></code>
- <code><img height="50" src=""></code>
+ <code><img height="50" src="https://www.ltu.edu/cm/attach/bd6b14d8-782f-4c37-af92-9efff393b996/Matlab-Logo.png"></code>
  <code><img height="50" src=""></code>
  <code><img height="50" src=""></code>
  <code><img height="50" src=""></code>
