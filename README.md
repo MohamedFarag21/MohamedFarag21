@@ -35,6 +35,9 @@ Here are some ideas to get you started:
  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
  <code><img height="50" src="https://external-preview.redd.it/SY5mlH8w2EFU-zp2P-nj8bvj7Cx1rgEGcDMmr2gawgU.jpg?auto=webp&s=a89328145b79c8fbed55ee28f9d7b295e1d22d2e"></code>
  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1920px-Scikit_learn_logo_small.svg.png"></code>
+ <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1920px-Pandas_logo.svg.png"></code>
+ <code><img height="50" src="https://www.vhv.rs/dpng/d/443-4432479_python-logo-png-transparent-png.png"></code>
+ <code><img height="50" src=""></code>
 
 
 
