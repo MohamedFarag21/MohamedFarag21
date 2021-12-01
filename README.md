@@ -38,7 +38,7 @@ Here are some ideas to get you started:
  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1920px-Pandas_logo.svg.png"></code>
  <code><img height="50" src="https://www.vhv.rs/dpng/d/443-4432479_python-logo-png-transparent-png.png"></code>
  <code><img height="50" src="https://www.caiodonalisio.com/static/blog/posts/cadernos/matplotlib/cover.png"></code>
- <code><img height="50" src=""></code>
+ <code><img height="50" src="https://user-images.githubusercontent.com/67586773/105041759-66ffed80-5a89-11eb-8fa5-65edb61275e0.png"></code>
  <code><img height="50" src=""></code>
  <code><img height="50" src=""></code>
  <code><img height="50" src=""></code>
