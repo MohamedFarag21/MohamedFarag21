@@ -18,9 +18,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Msc.
-- 🌱 I’m currently learning NLP with python, datascience
+- 🌱 I’m currently learning NLP with python, Datascience and Pytorch.
 - 👯 I’m looking to collaborate on ML\DL\DS Projects
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with....
 - 💬 Ask me about Machine learning\ Deep Learning\ Data Science
 - 📫 How to reach me: ..
 - 😄 Pronouns: ...
