@@ -1,15 +1,15 @@
 # Hi there, I am Mohamed Farag 👋
-### Renewable Energy Engineer 🌎| Research and Teaching Assistant 👨‍🏫| Artificial Intellignce Enthusiast👨‍💻 
+### Renewable Energy Engineer 🌎| Research and Teaching Assistant 👨‍🏫| Artificial Intellignce Enthusiast👨‍💻| Passionate about soccer and a video editor🎞|
  
  - 📧 How to reach me: mohamedfarag2000@icloud.com
  - 📄 Know more about my: CV
 
 
 
-- 🔭 I’m currently working on my Msc, using DL (Deep Learning for Diabetic Retinopathy detection).
+- 🔭 I’m currently working on my Msc, the title is (Deep Learning for Diabetic Retinopathy detection).
 - 🌱 I’m currently learning NLP with python, DataScience.
-- 👯 I’m looking to collaborate on ML\DL\DS Projects
-- 💬 Ask me about Machine learning\ Deep Learning\ Data Science
+- 👯 I’m looking to collaborate on ML\DL\DS Projects.
+- 💬 Ask me about Machine learning\ Deep Learning\ Data Science.
 
 
 <!--
