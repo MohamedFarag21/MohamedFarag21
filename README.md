@@ -1,5 +1,5 @@
 # Hi there, I am Mohamed Farag 👋
-### Renewable Energy Engineer 🌎| Research and Teaching Assistant 👨‍🏫| Artificial Intellignce Enthusiast👨‍💻| Passionate about soccer and a video editor🎞|
+### Renewable Energy Engineer 🌎| Research and Teaching Assistant 👨‍🏫| Artificial Intellignce Enthusiast👨‍💻| Passionate about soccer and video editing ⚽🎞|
  
  - 📧 How to reach me: mohamedfarag2000@icloud.com
  - 📄 Know more about my: CV
