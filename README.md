@@ -1,7 +1,7 @@
 # Hi there, I am Mohamed Farag 👋
 ### Renewable Energy Engineer 🌎| Research and Teaching Assistant 👨‍🏫| Artificial Intellignce Enthusiast👨‍💻| Passionate about soccer and video editing ⚽🎞|
 
-[![Linkedin: Mohamed Farag](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-farag-67a40119a/)]https://www.linkedin.com/in/mohamed-farag-67a40119a/)
+[![Linkedin: Mohamed Farag](https://img.shields.io/badge/-MohamedFarag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-farag-67a40119a/)]https://www.linkedin.com/in/mohamed-farag-67a40119a/)
  
  - 📧 How to reach me: mohamedfarag2000@icloud.com
  - 📄 Know more about my: CV
