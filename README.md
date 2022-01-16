@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 # Github stats
 ###
 
-<a href="https://github.com/MohamedFarag21">
+<!-- <a href="https://github.com/MohamedFarag21">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFarag21&theme=radical&hide=glsl,python," />
-</a>
+</a> -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFarag21&langs_count=10&theme=tokyonight&layout=compact" alt="MohamedFarag21 :: Top Langs" /></p>
 
