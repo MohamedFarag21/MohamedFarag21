@@ -58,5 +58,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFarag21&theme=radical&hide=glsl,python," />
 </a>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFarag21&langs_count=10&theme=tokyonight&layout=compact" alt="MohamedFarag21 :: Top Langs" /></p>
+
 ![MohamedFarag21 GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedfarag21&show_icons=true)
 
