@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on my Msc, the title is (Deep Learning for Diabetic Retinopathy detection).
+- 🔭 I’m currently working on my Msc. under the title (Deep Learning for Diabetic Retinopathy detection).
 - 🌱 I’m currently learning NLP with python, DataScience.
 - 👯 I’m looking to collaborate on ML\DL\DS Projects.
 - 💬 Ask me about Machine learning\ Deep Learning\ Data Science.
