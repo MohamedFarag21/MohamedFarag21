@@ -7,9 +7,8 @@
  - 📄 Know more about my: CV
 
 
-
-- 🔭 I earned my Msc. degree in Electronics Engineering at the German University of Cairo (GUC) under the title of (Deep Learning for Diabetic Retinopathy detection).
 - 🧑‍🎓 I am currently a Ph.D. student at the University of Bonn. The main topic is "Uncertainty Quantification and Explainable machine learning for Crops mointoring"
+- 🔭 I earned my Msc. degree in Electronics Engineering at the German University of Cairo (GUC) under the title of (Deep Learning for Diabetic Retinopathy detection).
 - 🌱 I’m currently learning NLP with python, DataScience, Reinforcemet Learning, and Pytorch.
 - 👯 I’m looking to collaborate on ML\DL\DS Projects.
 - 💬 Ask me about Machine learning\ Deep Learning\ Data Science\ Soccer.
