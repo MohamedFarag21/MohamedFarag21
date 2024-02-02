@@ -1,5 +1,5 @@
 # Hi there, I am Mohamed Farag 👋
-### Renewable Energy Engineer 🌎| Research and Teaching Assistant 👨‍🏫| Artificial Intellignce Enthusiast👨‍💻| Passionate about soccer and video editing ⚽🎞|
+### Ph.D. Student 🌎| Researcher and Teaching Assistant 👨‍🏫| Artificial Intellignce Enthusiast👨‍💻| Passionate about soccer and video editing ⚽🎞|
 
 [![Linkedin: Mohamed Farag](https://img.shields.io/badge/-MohamedFarag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-farag-67a40119a/)](https://www.linkedin.com/in/mohamed-farag-67a40119a/)
  
@@ -7,11 +7,11 @@
  - 📄 Know more about my: CV
 
 
-- 🧑‍🎓 I am currently a Ph.D. student at the University of Bonn. The main topic is "Uncertainty Quantification and Explainable machine learning for Crops mointoring"
-- 🔭 I earned my Msc. degree in Electronics Engineering at the German University of Cairo (GUC) under the title of (Deep Learning for Diabetic Retinopathy detection).
-- 🌱 I’m currently learning NLP with python, DataScience, Reinforcemet Learning, and Pytorch.
-- 👯 I’m looking to collaborate on ML\DL\DS Projects.
-- 💬 Ask me about Machine learning\ Deep Learning\ Data Science\ Soccer.
+I'm currently a Doctoral student at the University of Bonn, my focus is on developing methods and techniques that tackle the challenges of uncertainty estimation and explainability within Deep Learning models for Crops monitoring.
+
+My journey, spanning diverse disciplines, has profoundly encouraged me to venture into the realms of Deep Learning across various domains. This exploration led me to the field of Medicine, which held a special place in my heart during my MSc. thesis. Eagerness to learn is a constant driving force in my life. I'm always enthusiastic about expanding my horizons, as I believe in the complementary nature of science, where fields, in the end, are connected somehow.
+
+My research focuses on Applied AI across various domains, with a primary emphasis on computer vision applications in Crop monitoring and Medicine.
 
 
 <!--
