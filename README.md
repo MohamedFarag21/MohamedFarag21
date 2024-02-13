@@ -4,7 +4,7 @@
 [![Linkedin: Mohamed Farag](https://img.shields.io/badge/-MohamedFarag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-farag-67a40119a/)](https://www.linkedin.com/in/mohamed-farag-67a40119a/)
  
  - 📧 How to reach me: mohamedfarag2000@icloud.com/mibrahi2@uni-bonn.de
- - 📄 Know more about my: CV
+ - 📄 Know more about my experience: [https://drive.google.com/file/d/1UxcP1TFdoS2b9V53D3jE9bqTz2xqgjh9/view?usp=sharing]
 
 
 I'm currently a Doctoral student at the University of Bonn, my focus is on developing methods and techniques that tackle the challenges of uncertainty estimation and explainability within Deep Learning models for Crops monitoring.
