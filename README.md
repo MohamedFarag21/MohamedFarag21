@@ -12,7 +12,7 @@ I'm currently a Doctoral student at the University of Bonn, my focus is on devel
 
 My journey, spanning diverse disciplines, has profoundly encouraged me to venture into the realms of Deep Learning across various domains. This exploration led me to the field of Medicine, which held a special place in my heart during my MSc. thesis. Eagerness to learn is a constant driving force in my life. I'm always enthusiastic about expanding my horizons, as I believe in the complementary nature of science, where fields, in the end, are connected somehow.
 
-My research focuses on Applied AI across various domains, with a primary emphasis on computer vision applications in Crop monitoring and Medicine.
+My research focuses on Applied AI across various domains, with a primary emphasis on computer vision applications in Crop monitoring and Medicine. 🍀⚕️💻
 
 
 <!--
