@@ -5,7 +5,7 @@
  
  - 📧 How to reach me: mohamedfarag2000@icloud.com/mibrahi2@uni-bonn.de
  - 📄 Know more about my experience: [CV](https://drive.google.com/file/d/1UxcP1TFdoS2b9V53D3jE9bqTz2xqgjh9/view?usp=sharing)
- - 📚 To check my publications [Research Gate](https://www.researchgate.net/profile/Mohamed-Farag-66?ev=prf_overview)
+ - 📚 To check my publications [Research Gate](https://www.researchgate.net/profile/Mohamed-Farag-66?ev=prf_overview), and [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=XQZEyZ8AAAAJ&gmla=AHoSzlWodsfpbNCEnloj1I9KnceN0mp2uQ7mtbaPgODyUlMYDaDFmVRR4bak6cXA3Jjz3Lgb5dIIhxH77v4h0naIErQCseFGF-hzBnIwfco).
 
 
 I'm currently a Doctoral student at the University of Bonn, my focus is on developing methods and techniques that tackle the challenges of uncertainty estimation and explainability within Deep Learning models for Crops monitoring.
