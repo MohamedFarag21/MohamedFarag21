@@ -4,7 +4,6 @@
 [![Linkedin: Mohamed Farag](https://img.shields.io/badge/-MohamedFarag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-farag-67a40119a/)](https://www.linkedin.com/in/mohamed-farag-67a40119a/)
  
  - 📧 How to reach me: mibrahi2@uni-bonn.de
- - 📄 Know more about my experience: [CV](https://drive.google.com/file/d/1UxcP1TFdoS2b9V53D3jE9bqTz2xqgjh9/view?usp=sharing)
  - 📚 To check my publications [Research Gate](https://www.researchgate.net/profile/Mohamed-Farag-66?ev=prf_overview), and [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=XQZEyZ8AAAAJ&gmla=AHoSzlWodsfpbNCEnloj1I9KnceN0mp2uQ7mtbaPgODyUlMYDaDFmVRR4bak6cXA3Jjz3Lgb5dIIhxH77v4h0naIErQCseFGF-hzBnIwfco).
 
 
