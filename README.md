@@ -1,64 +1,91 @@
-# Hi there, I am Mohamed M. Farag Ibrahim 👋
-### Ph.D. Student 🌎| Researcher and Teaching Assistant 👨‍🏫| Artificial Intellignce Enthusiast👨‍💻| Passionate about soccer and video editing ⚽🎞|
+# Hey, I'm Mohamed 👋
 
-[![Linkedin: Mohamed Farag](https://img.shields.io/badge/-MohamedFarag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-farag-67a40119a/)](https://www.linkedin.com/in/mohamed-farag-67a40119a/)
- 
- - 📧 How to reach me: mibrahi2@uni-bonn.de
- - 📚 To check my publications [Research Gate](https://www.researchgate.net/profile/Mohamed-Farag-66?ev=prf_overview), and [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=XQZEyZ8AAAAJ&gmla=AHoSzlWodsfpbNCEnloj1I9KnceN0mp2uQ7mtbaPgODyUlMYDaDFmVRR4bak6cXA3Jjz3Lgb5dIIhxH77v4h0naIErQCseFGF-hzBnIwfco).
+I'm a **PhD researcher** at the [University of Bonn](https://www.uni-bonn.de/en) working within the **AID4Crops** unit. My research sits at the intersection of **Uncertainty Quantification** and **Explainable Machine Learning** — with the goal of building more transparent and reliable AI systems for crop monitoring and precision agriculture. 🌱
 
+Before Bonn, I explored deep learning for medical imaging during my MSc, and I love how connected science really is across domains.
 
-I'm currently a Doctoral student at the University of Bonn, my focus is on developing methods and techniques that tackle the challenges of uncertainty estimation and explainability within Deep Learning models for Crops monitoring.
+---
 
-My journey, spanning diverse disciplines, has profoundly encouraged me to venture into the realms of Deep Learning across various domains. This exploration led me to the field of Medicine, which held a special place in my heart during my MSc. thesis. Eagerness to learn is a constant driving force in my life. I'm always enthusiastic about expanding my horizons, as I believe in the complementary nature of science, where fields, in the end, are connected somehow.
+## 🔬 Research Interests
 
-My research focuses on Applied AI across various domains, with a primary emphasis on computer vision applications in Crop monitoring and Medicine. 🍀⚕️💻
+- 🌾 **Precision Agriculture** — AI-driven crop monitoring and decision support
+- 🤔 **Uncertainty Quantification** — Conformal prediction, ensemble methods, calibration
+- 🔍 **Explainable ML** — GradCAM, attention maps, integrated gradients
+- 🏥 **Medical Imaging** — Diabetic retinopathy classification, surgical tool segmentation
 
+---
 
-<!--
-**MohamedFarag21/MohamedFarag21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📄 Selected Publications
 
-Here are some ideas to get you started:
+**Journals**
+- 📘 Farag et al. (2025). *Enhancing Decision Support in Crop Production: Analyzing Conformal Prediction for Uncertainty Quantification.* **Computers and Electronics in Agriculture** (IF: 8.9, Q1)
+- 📘 Emam, Farag & Roscher. *Confident Naturalness Explanation (CNE).* **IEEE Geoscience and Remote Sensing Letters** (IF: 4.0, Q1)
+- 📘 Farag, Fouad & Abdel-Hamid. *Automatic Severity Classification of Diabetic Retinopathy Based on DenseNet and CBAM.* **IEEE Access** (IF: 3.6)
 
-- 🔭 I’m currently working on my Msc.
-- 🌱 I’m currently learning NLP with python, Datascience and Pytorch.
-- 👯 I’m looking to collaborate on ML\DL\DS Projects
-- 🤔 I’m looking for help with....
-- 💬 Ask me about Machine learning\ Deep Learning\ Data Science
-- 📫 How to reach me: ..
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Workshops**
+- 🔧 Emam, Farag et al. (2025). *A Framework for Enhanced Decision Support in Digital Agriculture Using Explainable ML.* **ECCV 2024 Workshops**, Springer LNCS
+- 🔧 Farag, Kierdorf & Roscher (2023). *Inductive Conformal Prediction for Harvest-Readiness Classification of Cauliflower Plants.* **ICCV 2023 Workshops**
 
-# Languages & Tools
-###
+📚 Full list: [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=XQZEyZ8AAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Mohamed-Farag-66)
 
- <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
- <code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
- <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
- <code><img height="50" src="https://external-preview.redd.it/SY5mlH8w2EFU-zp2P-nj8bvj7Cx1rgEGcDMmr2gawgU.jpg?auto=webp&s=a89328145b79c8fbed55ee28f9d7b295e1d22d2e"></code>
- <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1920px-Scikit_learn_logo_small.svg.png"></code>
- <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1920px-Pandas_logo.svg.png"></code>
- <code><img height="50" src="https://www.vhv.rs/dpng/d/443-4432479_python-logo-png-transparent-png.png"></code>
- <code><img height="50" src="https://www.caiodonalisio.com/static/blog/posts/cadernos/matplotlib/cover.png"></code>
- <code><img height="50" src="https://user-images.githubusercontent.com/315810/92255284-156f1180-eea0-11ea-9d2d-be8262670e8c.png"></code>
- <code><img height="50" src="https://www.ltu.edu/cm/attach/bd6b14d8-782f-4c37-af92-9efff393b996/Matlab-Logo.png"></code>
- <code><img height="50" src="https://www.logo.wine/a/logo/Adobe_Premiere_Pro/Adobe_Premiere_Pro-Logo.wine.svg"></code>
-<!--  <code><img height="50" src=""></code>
- <code><img height="50" src=""></code> -->
+---
 
+## 🛠️ Tech Stack
 
+**Deep Learning & ML**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
 
+**Architectures I've worked with:** CNNs, ViTs, UNet, TransUNet, DeepLab, Mask2Former, YOLOS
 
+**Self-supervised learning:** DINO, SwAV, BarlowTwins, BYOL, SimCLR, SimSiam, NNCLR
 
-# Github stats
-###
+---
 
-<!-- <a href="https://github.com/MohamedFarag21">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFarag21&theme=radical&hide=glsl,python," />
-</a> -->
+## 👨‍🏫 Teaching & Supervision
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFarag21&langs_count=10&theme=tokyonight&layout=compact" alt="MohamedFarag21 :: Top Langs" /></p>
+I enjoy mentoring — it's one of my favourite parts of academia.
 
-![MohamedFarag21 GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedfarag21&show_icons=true)
+**Courses (TA @ University of Bonn)**
+- Explainable Machine Learning
+- Acquisition, Analysis and Modelling of Phenotypes
+- Advanced Methods for Heterogeneity and Phenotype Analysis
 
+**Student Supervision**
+- 🎓 **3 MSc students** — topics spanning UQ, anomaly detection, and data dimensionality (with Fraunhofer, DLR, and Erasmus programme)
+- 🎓 **2 BSc students** — sensitivity of model uncertainty to hyperparameter variations (with GUC)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFarag21&langs_count=8&theme=tokyonight&layout=compact" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedfarag21&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🌍 A Bit More About Me
+
+- 🇨🇦 Canadian · Based in Bonn, Germany
+- 🗣️ Fluent in **English** and **Arabic**
+- ⚽ Big football fan · 🎞️ Video editing enthusiast · 🎮 Occasional gamer
+- 🧠 Strong believer that science is interconnected — from crops to the clinic
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Farag-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohamed-farag-67a40119a/)
+[![Email](https://img.shields.io/badge/Email-mibrahi2@uni--bonn.de-red?style=flat-square&logo=gmail)](mailto:mibrahi2@uni-bonn.de)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=XQZEyZ8AAAAJ)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mohamed-Farag-66)
