@@ -100,7 +100,7 @@ I enjoy mentoring — it's one of my favourite parts of academia.
 
 ## 🌍 A Bit More About Me
 
-- 🇨🇦 Canadian · Based in Bonn, Germany
+- 🇨🇦🇪🇬 Egyptian/Canadian
 - 🗣️ Fluent in **English** and **Arabic**
 - ⚽ Big football fan · 🎞️ Video editing enthusiast · 🎮 Occasional gamer
 - 🧠 Strong believer that science is interconnected — from crops to the clinic
