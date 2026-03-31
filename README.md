@@ -18,7 +18,7 @@ Before Bonn, I explored deep learning for medical imaging during my MSc, and I l
 
 - 🌾 **Precision Agriculture** — AI-driven crop monitoring and decision support
 - 🤔 **Uncertainty Quantification** — Conformal prediction, ensemble methods, calibration
-- 🔍 **Explainable ML** — GradCAM, attention maps, integrated gradients
+- 🔍 **Explainable ML** — GradCAM, attention maps, integrated gradients, mechanistic interpretability
 - 🏥 **Medical Imaging** — Diabetic retinopathy classification, surgical tool segmentation
 
 ---
