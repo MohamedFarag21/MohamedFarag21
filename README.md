@@ -6,6 +6,14 @@ Before Bonn, I explored deep learning for medical imaging during my MSc, and I l
 
 ---
 
+## 🚧 Currently Working On
+
+- Investigating the relationship between **model uncertainty and explainability** in deep learning models for crop monitoring
+- Extending **conformal prediction** frameworks to dense prediction tasks (segmentation) in precision agriculture
+- Supervising MSc and BSc students on uncertainty sensitivity and anomaly detection projects
+
+---
+
 ## 🔬 Research Interests
 
 - 🌾 **Precision Agriculture** — AI-driven crop monitoring and decision support
@@ -27,6 +35,14 @@ Before Bonn, I explored deep learning for medical imaging during my MSc, and I l
 - 🔧 Farag, Kierdorf & Roscher (2023). *Inductive Conformal Prediction for Harvest-Readiness Classification of Cauliflower Plants.* **ICCV 2023 Workshops**
 
 📚 Full list: [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=XQZEyZ8AAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Mohamed-Farag-66)
+
+**📈 Research Impact** *(update periodically)*
+
+| Citations | h-index | Publications |
+|:---------:|:-------:|:------------:|
+| ![Scholar](https://img.shields.io/badge/Citations-check%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white) | — | 5 (journals + workshops) |
+
+> 💡 *Get your live numbers from [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=XQZEyZ8AAAAJ) and update the table above.*
 
 ---
 
@@ -72,6 +88,14 @@ I enjoy mentoring — it's one of my favourite parts of academia.
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedfarag21&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedFarag21&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedFarag21&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
 ---
 
 ## 🌍 A Bit More About Me
@@ -80,6 +104,19 @@ I enjoy mentoring — it's one of my favourite parts of academia.
 - 🗣️ Fluent in **English** and **Arabic**
 - ⚽ Big football fan · 🎞️ Video editing enthusiast · 🎮 Occasional gamer
 - 🧠 Strong believer that science is interconnected — from crops to the clinic
+
+---
+
+## 🤝 Open to Collaborations
+
+I'm always happy to connect with researchers and practitioners working on:
+
+- 🌾 AI for precision agriculture or remote sensing
+- 🤔 Uncertainty quantification in deep learning
+- 🔍 Explainability methods for computer vision
+- 🏥 Medical image analysis
+
+If any of this overlaps with your work — feel free to reach out!
 
 ---
 
