@@ -85,7 +85,7 @@ I enjoy mentoring — it's one of my favourite parts of academia.
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFarag21&langs_count=8&theme=tokyonight&layout=compact" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedfarag21&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedFarag21&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="left">
